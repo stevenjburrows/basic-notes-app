@@ -36,9 +36,7 @@ const IndexScreen = ({ navigation }) => {
               onPress={() => navigation.navigate("Show", { id: item.id })}
             >
               <View style={styles.row}>
-                <Text style={styles.title}>
-                  {item.title} - {item.id}
-                </Text>
+                <Text style={styles.title}>{item.title}</Text>
                 <TouchableOpacity onPress={() => deleteNotes(item.id)}>
                   <Feather name="trash" style={styles.icon} />
                 </TouchableOpacity>
