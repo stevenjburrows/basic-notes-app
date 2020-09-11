@@ -20,7 +20,7 @@ Here is a view of the home screen
 ### Add a note
 
 Click on the + symbol to adda new note
-![add a new note screen](images/add-new-note.png) ![enter the note details](images/add-new-note-2.png) ![home page showing the new note](images/add-new-note-3.png)
+|![add a new note screen](images/add-new-note.png) | ![enter the note details](images/add-new-note-2.png) ![home page showing the new note](images/add-new-note-3.png) |
 
 ### View note
 
